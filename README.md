@@ -17,7 +17,7 @@ The Real-Time Financial Portfolio Analyzer is a basic interactive web-based tool
 ## Installation and use
 To run the Real-Time Financial Portfolio Analyzer locally, follow these steps :
 
-1) Clone the repo: git clone https://github.com/#user_name/finance-analyzer.git
+1) Clone the repo: git clone "https://github.com/user_name/FPA.git"
 2) Navigate to the project directory: 'cd finance-analyzer'
 3) Install Python dependencies : pip install -r requirements.txt
 4) Install Js dependecies : npm install
